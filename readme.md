@@ -24,6 +24,12 @@ Watch me write this code as part of my popular Udemy course. This link will give
 * Two triangle trigonometry take-home tricks.
 * Testing critical angle in Unity Editor.
 
+## Make A Friction Test Rig
+* Discover slipping angle.
+* Try three different static friction coefficients.
+* About rolling, and “impulsing” the block.
+* Generally horsing around with blocks and slopes.
+
 Enjoy
 
 Ben
