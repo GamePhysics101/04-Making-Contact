@@ -30,6 +30,16 @@ Watch me write this code as part of my popular Udemy course. This link will give
 * About rolling, and “impulsing” the block.
 * Generally horsing around with blocks and slopes.
 
+## Friction Combine In Unity
+* Why we care about friction combine.
+* The limitations of Unity’s model.
+* How friction combine precedence works.
+
+## About Dynamic Friction
+* What is dynamic friction.
+* How it relates to terminal velocity on a slope.
+* A look at some Stribeck curves.
+
 Enjoy
 
 Ben
