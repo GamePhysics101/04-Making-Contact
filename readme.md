@@ -40,6 +40,12 @@ Watch me write this code as part of my popular Udemy course. This link will give
 * How it relates to terminal velocity on a slope.
 * A look at some Stribeck curves.
 
+## How Friction Direction 2 Works
+* What the Friction Direction 2 setting does.
+* How it might be useful.
+* A note on using unit vectors.
+* Friction Direction 2 doesn’t work in Unity 5!
+
 Enjoy
 
 Ben
