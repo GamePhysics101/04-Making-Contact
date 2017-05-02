@@ -55,6 +55,3 @@
 ### Wrap-up & Next Steps ###
 
 Congratulations and how to continue your learning.
-
----
-Find out more about our [Game Physics Course](https://www.udemy.com/gamephysics/?couponCode=GitHubDiscount).
